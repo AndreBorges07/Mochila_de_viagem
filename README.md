@@ -25,3 +25,7 @@ Projeto voltado para o aprendizado e desenvolvimento em JavaScript.
     <li>Removendo um item</li>
     <li>Foram feitas 43 de 43 atividades.</li>
 </ul>
+
+# Certificado: JAVASCRIPT NA WEB: ARMAZENANDO DADOS NO NAVEGADOR
+
+Acesse aqui: https://cursos.alura.com.br/certificate/andreBorges07/javascript-web-armazenando-dados-navegador
